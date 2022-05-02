@@ -1,0 +1,8 @@
+import static org.junit.Assert.*;
+import org.junit.*;
+public class MarkdownParseTest {
+    @Test
+    public void subtraction() {
+        assertEquals(2, skillsTest(1,1));
+    }
+}
