@@ -3,6 +3,6 @@ import org.junit.*;
 public class skillsTester {
     @Test
     public void subtraction() {
-        assertEquals(2, skillsTest.subtract(1,1));
+        assertEquals(0, skillsTest.subtract(1,1));
     }
 }
